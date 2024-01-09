@@ -7,4 +7,3 @@
 * Linterna Verde
 * Robin
 * Volcán Verde!!
-* Myriam Daniela Hernandez Alaniz
